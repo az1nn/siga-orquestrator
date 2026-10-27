@@ -1,0 +1,17 @@
+{
+  "source_type": "imported_fixture",
+  "source_date": "2026-10-26",
+  "live": false,
+  "repo": "az1nn/growing-rio",
+  "master_sha": "9d935abe8105b06e32f3564b18646ec6d8cbf936",
+  "spec_files": 45,
+  "done": 623,
+  "pending": 131,
+  "draft_prs": 2,
+  "issues_excluding_prs": 5,
+  "master_success_checks": 4,
+  "master_checks_completed_on": "2026-10-15",
+  "r06": "WATCH",
+  "city_runtime": "REJECT_ALL",
+  "notice": "Resumo histórico de referência; fixture completa e HTML original disponíveis no pacote local v0.3.0."
+}
